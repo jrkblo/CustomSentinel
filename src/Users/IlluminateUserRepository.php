@@ -22,8 +22,8 @@ namespace Acconplish\CustomSentinel\Users;
 
 use Carbon\Carbon;
 use Acconplish\CustomSentinel\Hashing\HasherInterface;
-use Cartalyst\Support\Traits\EventTrait;
-use Cartalyst\Support\Traits\RepositoryTrait;
+use Acconplish\Support\Traits\EventTrait;
+use Acconplish\Support\Traits\RepositoryTrait;
 use Closure;
 use Illuminate\Contracts\Events\Dispatcher;
 use InvalidArgumentException;

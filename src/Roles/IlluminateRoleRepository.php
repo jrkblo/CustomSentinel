@@ -20,7 +20,7 @@
 
 namespace Acconplish\CustomSentinel\Roles;
 
-use Cartalyst\Support\Traits\RepositoryTrait;
+use Acconplish\Support\Traits\RepositoryTrait;
 
 class IlluminateRoleRepository implements RoleRepositoryInterface
 {

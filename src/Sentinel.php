@@ -29,7 +29,7 @@ use Acconplish\CustomSentinel\Roles\RoleRepositoryInterface;
 use Acconplish\CustomSentinel\Throttling\ThrottleRepositoryInterface;
 use Acconplish\CustomSentinel\Users\UserInterface;
 use Acconplish\CustomSentinel\Users\UserRepositoryInterface;
-use Cartalyst\Support\Traits\EventTrait;
+use Acconplish\Support\Traits\EventTrait;
 use Closure;
 use Illuminate\Contracts\Events\Dispatcher;
 use InvalidArgumentException;

@@ -23,7 +23,7 @@ namespace Acconplish\CustomSentinel\Reminders;
 use Carbon\Carbon;
 use Acconplish\CustomSentinel\Users\UserInterface;
 use Acconplish\CustomSentinel\Users\UserRepositoryInterface;
-use Cartalyst\Support\Traits\RepositoryTrait;
+use Acconplish\Support\Traits\RepositoryTrait;
 
 class IlluminateReminderRepository implements ReminderRepositoryInterface
 {

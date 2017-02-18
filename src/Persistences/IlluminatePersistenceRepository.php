@@ -23,7 +23,7 @@ namespace Acconplish\CustomSentinel\Persistences;
 use Acconplish\CustomSentinel\Cookies\CookieInterface;
 use Acconplish\CustomSentinel\Persistences\PersistableInterface;
 use Acconplish\CustomSentinel\Sessions\SessionInterface;
-use Cartalyst\Support\Traits\RepositoryTrait;
+use Acconplish\Support\Traits\RepositoryTrait;
 
 class IlluminatePersistenceRepository implements PersistenceRepositoryInterface
 {

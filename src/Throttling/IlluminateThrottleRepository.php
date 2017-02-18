@@ -22,7 +22,7 @@ namespace Acconplish\CustomSentinel\Throttling;
 
 use Carbon\Carbon;
 use Acconplish\CustomSentinel\Users\UserInterface;
-use Cartalyst\Support\Traits\RepositoryTrait;
+use Acconplish\Support\Traits\RepositoryTrait;
 
 class IlluminateThrottleRepository implements ThrottleRepositoryInterface
 {
